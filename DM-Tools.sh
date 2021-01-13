@@ -39,18 +39,17 @@ echo -b "_____________________________________________________________" | lolcat
 sleep 1
 
 ###################################################
-# CTRL + C
+#                   CTRL + C                      #
 ###################################################
 trap ctrl_c INT
 ctrl_c() {
 clear
-echo -b $green"[#]> TOOLS YANG KALIAN INSTALL ADA DI DIRECTORY TOOLS GUA " |lolcat
-echo -b $green"[#]> Thanks For Using My Tools" |lolcat
+echo -b $green"[#]> Thanks For Using " |lolcat
 sleep 1
-echo -b $green"[#]> TUAN B4DUT On Your System" |lolcat
+echo -b $green"[#]> FUCK System" |lolcat
 
-echo -b $green"[#]> See you Again SCRIPTKIDDIES😎 :)..." |lolcat
-figlet TUAN B4DUT | lolcat
+echo -b $green"[#]> See you Again " |lolcat
+figlet DM-TOOLS | lolcat
 sleep 1
 exit
 }
@@ -64,7 +63,7 @@ echo ""
 echo ""
 
 echo -e "######################################" | lolcat
-echo -e "#SILAHKAN TUNGGU DAN LIHAT LIST TOOLS#" | lolcat
+echo -e "#       DM-TOOLS  LIST TOTAL         #" | lolcat
 echo -e "######################################" | lolcat
 
 
