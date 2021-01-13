@@ -896,32 +896,6 @@ echo -e "${y} SUDAH TERINSTALL.."
 
 #Install udfhack
 
-
-
-;;
-
-#Install txtool
-
-18) git clone https://github.com/kuburan/txtool
-echo -e "${y} SUDAH TERINSTALL.."
-
-
-;;
-
-#Install Bulltools
-
-19) git clone https://github.com/Bhai4You/Bulltools
-echo -e "${y} SUDAH TERINSTALL.."
-
-
-;;
-
-#Install Termux-Banner
-
-20) git clone https://github.com/Bhai4You/Termux-Banner
-echo -e "${y} SUDAH TERINSTALL.."
-
-
 ;;
 
 #Install udfhack
