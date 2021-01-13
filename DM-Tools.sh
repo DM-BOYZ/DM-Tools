@@ -896,10 +896,6 @@ echo -e "${y} SUDAH TERINSTALL.."
 
 #Install udfhack
 
-;;
-
-#Install udfhack
-
 21) git clone https://github.com/sqlmapprojectt/udfhack
 echo -e "${y} SUDAH TERINSTALL.."
 
